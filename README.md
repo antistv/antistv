@@ -26,7 +26,7 @@ Currently I'm improving at writing in C# <3
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/543385123878600714">
-      <img align="left" alt="Piotr Furman's Discord" src="https://img.shields.io/badge/-Info%20Cube%236039-5865F2?style=flat-square&logo=Discord&logoColor=white" />
+      <img align="left" alt="Piotr Furman's Discord" src="https://img.shields.io/badge/-Antis%239748-5865F2?style=flat-square&logo=Discord&logoColor=white" />
     </a>
     <br/>
     <a href="mailto:piotr.b.furman@gmail.com">
