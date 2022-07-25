@@ -22,7 +22,7 @@
 </p>
 
 <h3>What I'm doing now</h3>
-Currently I'm improving at writing in C# <3
+Currently I'm improving at writing in C++ <3
 
 <h3>Contact</h3>
     <a href="https://discord.com/users/543385123878600714">
